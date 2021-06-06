@@ -61,10 +61,7 @@ If you use my backend project the IP should be the IPv4 Address on your computer
 ## :star: Contributing
 
 If you'd like to contribute, please fork the repository and make changes as
-you'd like. Pull requests are warmly welcome. Thanks alot
+you'd like. Pull requests are warmly welcome. Thanks alot....
 
 
-
-
-
-
+HashTag:::::IDLegend.....
